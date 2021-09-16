@@ -30,6 +30,9 @@ int main()
     }
     if(imc>24){
         cout <<"Estas acima do peso"<<endl;
+        cout <<"Vamos fazer uma dieta meu camarada"<<endl;
+        cout <<"Se nao a moita vai fechar"<<endl;
+        
         }
     
     
